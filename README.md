@@ -1,5 +1,5 @@
 ### Hi, I'm Mariana! 👋
-I'm a Developer Font-end and passionate about technology.
+I'm a Font-end Developer and passionate about technology.
 
 <div align="center">
   <a href="https://github.com/marianamoiolicapelari">
