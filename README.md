@@ -3,8 +3,8 @@ I'm a Font-end Developer and passionate about technology.
 
 <div align="center">
   <a href="https://github.com/marianamoiolicapelari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianamoiolicapelari&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamoiolicapelari&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianamoiolicapelari&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianamoiolicapelari&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ##  
